@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.exe
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.deps.json
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.dll
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\bin\Debug\netcoreapp3.1\LAB9_4HTML.pdb
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.dll
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.pdb
+C:\Users\nalle\source\repos\LAB9_4HTML\LAB9_4HTML\obj\Debug\netcoreapp3.1\LAB9_4HTML.genruntimeconfig.cache
